@@ -1,0 +1,8 @@
+Dockerfile
+.venv
+.venv-win
+.idea
+*.iml
+*.pyc
+.mypy_cache
+models/*

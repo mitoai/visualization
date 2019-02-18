@@ -1,0 +1,8 @@
+.venv
+.venv-win
+.idea
+*.iml
+*.pyc
+.mypy_cache
+.DS_Store
+src/temp-plot.html
